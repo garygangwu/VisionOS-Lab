@@ -43,3 +43,4 @@ playground.xcworkspace
 # *.xcworkspace
 
 **/Config.plist
+.DS_Store
