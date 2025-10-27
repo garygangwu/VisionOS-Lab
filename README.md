@@ -13,4 +13,5 @@ Replace the Google cloud api key (with map/geocoding access permission) in the [
 A demo app that plays immersive 360-degree videos in Vision Pro.
 
 🎥 Demo
+
 ![Immersive video demo](demo/demo.gif)
