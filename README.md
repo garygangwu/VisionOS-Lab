@@ -18,3 +18,5 @@ A demo app that plays immersive 360-degree videos in Vision Pro.
 
 ## [In-App Multi-tab web browser](web_browser/web_browser)
 A demo app with an in-app multi-tab web browser
+
+<img width="480" alt="" src="demo/web-browser.png">
